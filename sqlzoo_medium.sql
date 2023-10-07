@@ -92,14 +92,3 @@ LEFT JOIN Address AS A
   ON CA.AddressID = A.AddressID
 WHERE PC.Name = 'Cranksets'
 AND A.City = 'London'
-
-
-
-
-
-
-
-
-
-
-
